@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sunni05/Utilities/issues"
   },
-  "homepage": "https://github.com/Sunni05/Utilities#readme"
+  "homepage": "https://github.com/Sunni05/Utilities#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
